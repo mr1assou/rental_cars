@@ -1,0 +1,28 @@
+
+ 
+.text{
+    position: relative;
+}
+.text.sec-text:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    border-left: 2px solid orangered;
+    animation: animate 4s  infinite;
+}
+
+/* .slider-track {
+    animation: runSlider 10s linear infinite;
+} */
+/* @keyframes runSlider {
+    from {
+        transform: translateX(0);
+    }
+
+    to {
+        transform: translateX(calc(-310px * 4));
+    }
+} */
