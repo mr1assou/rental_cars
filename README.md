@@ -1,4 +1,4 @@
-![landing_page](https://github.com/mr1assou/rental_cars/assets/113117942/80ac1d55-5743-40ac-8f0c-92632f5460f0)
+
 
 ![image1](https://github.com/mr1assou/rental_cars/assets/113117942/6ae525ac-8bd3-45ba-95bf-2134b50f7dde)
 
@@ -7,6 +7,8 @@
 ![image4](https://github.com/mr1assou/rental_cars/assets/113117942/d4a823c0-d1e7-4b29-92be-3d5afddd0d5b)
 
 ![image3](https://github.com/mr1assou/rental_cars/assets/113117942/6925f91f-7dbb-478f-bbf8-18009401af3d)
+
+![landing_page](https://github.com/mr1assou/rental_cars/assets/113117942/80ac1d55-5743-40ac-8f0c-92632f5460f0)
 
 ![calendar](https://github.com/mr1assou/rental_cars/assets/113117942/02400234-c652-43ac-94b9-10649b406dab)
 
