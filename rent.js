@@ -269,3 +269,7 @@ selectOptions2.addEventListener('change', function () {
     inputTime2.value = selectedOption2.value;
 });
 
+outputTime2.textContent ="8:00";
+inputTime2.value ="8:00";
+outputTime.textContent ="8:00";
+inputTime.value ="8:00";
