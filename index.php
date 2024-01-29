@@ -144,7 +144,7 @@
                                 <input type="text" name="pick_up_time" class="input-time ml-5 p-1 text-sm bg-black outline-0 focus:outline-none hidden" placeholder="choose time" required>
                                 <p class="p-1 text-md  text-orange font-black output-time">choose time</p>
                                  <select name="" class="text-black p-1 rounded-md hover:bg-orange hover:text-white cursor-pointer border-none select-options" required>
-	                                <option value="8:00" class="option-time" selected>8:00</option>
+	                                <option value="8:00" class="option-time click">8:00</option>
 	                                <option value="8:30" class="option-time">8:30</option>
 	                                <option value="9:00" class="option-time">9:00</option>
 	                                <option value="9:30" class="option-time">9:30</option>
@@ -191,7 +191,7 @@
                                 <input type="text" name="return_time" class="input-time2 ml-5 p-1 text-sm bg-black outline-0 focus:outline-none hidden" placeholder="choose time">
                                 <p class="p-1 text-md  text-orange font-black output-time2">choose time</p>
                                  <select name="" class="text-black p-1 rounded-md hover:bg-orange hover:text-white cursor-pointer border-none select-options2" required>
-	                                <option value="8:00" class="option-time2" selected>8:00</option>
+	                                <option value="8:00" class="option-time2 click" >8:00</option>
 	                                <option value="8:30" class="option-time2">8:30</option>
 	                                <option value="9:00" class="option-time2">9:00</option>
 	                                <option value="9:30" class="option-time2">9:30</option>
@@ -283,45 +283,6 @@
         <div class="absolute w-full h-[55px] bg-white bottom-0 left-0  flex items-center px-5 overflow-hidden slide-track -z-10 "> </div>
         </div>
        </section>
-       <!-- <section>
-            <h1 class="text-center mt-5 text-blue text-5xl ">Our Vehicule Fleet</h1>
-            <p class="text-center mt-3 text-grey">Embark on unforgettable journeys as we turn your dreams into reality with our exceptional fleet of versatile vehicles.</p>
-            <div class="px-5 flex mt-10  items-center  relative overflow-x-hidden mb-10">
-                <div class="basis-[24%]  shadow-[rgba(50,50,93,0.25)_0px_6px_12px_-2px,_rgba(0,0,0,0.3)_0px_3px_7px_-3px] p-3 shrink-0 mx-2 car  transition duration-300 ease-in-out mb-3 mt-3">
-            <div class="relative max-w-full overflow-hidden bg-cover bg-no-repeat rounded-md ">
-                <img src="./images/ferrari1.jpg" class="w-full cursor-pointer  transition duration-300 ease-in-out hover:scale-110 rounded-md filter brightness-100 h-64 object-cover" alt="mercedes" />
-            </div>
-                    <div class="relative max-w-xs overflow-hidden bg-cover bg-no-repeat">
-                    <div class="flex justify-between mt-3 items-center">
-                        <p class="mx-2 text-orange text-lg">Mercedes</p>
-                        <p class="mx-2  text-sm text-blue">Amg-360</p>
-                    </div>
-                    <div class="flex w-full items-center mt-3">                    
-                        <div class="mx-2 flex items-center"><i class="fa-solid fa-user text-orange"></i><span class="mx-2 text-blue">5</span></div>
-                        <div class="mx-2 flex items-center"><i class="fa-sharp fa-solid fa-door-closed text-orange"></i><span class="mx-2 text-blue">4</span></div>
-                        <div class="mx-2 flex items-center"><i class="fa-solid fa-car text-orange"></i><span class="text-sm mx-2 text-blue">Sedan</span></div>
-                    </div>
-                    <p class="mt-3 border-b-2 border-grey mx-2 pb-2">Daily Rent</p>
-                    <div class="mt-3 flex justify-between items-center my-2 ">
-                        <p class="mx-2 text-orange font-black text-2xl">200$</p>
-                        <div class="mx-2 flex items-center">
-                            <a href="#" class="inline-block bg-black text-white mx-2 p-2 text-sm transition duration-300 ease-in-out hover:scale-110 rounded-md">view more</a>
-                            <a href="#" class="inline-block bg-orange text-white p-2 text-sm transition duration-300 ease-in-out hover:scale-110 rounded-md">rent now</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-             <div class="p-3 rounded-full  bg-black absolute top-1/2 text-white translate-x-[-50%] 
-    cursor-pointer  transition duration-300 ease-in-out hover:bg-white hover:text-black prev-btn ">
-            <i class="fas fa-solid fa-arrow-left fa-2x rouned-full"></i>
-            </div>
-             <div class="p-3 rounded-full  bg-black absolute top-1/2 right-0 text-white 
-    cursor-pointer  transition duration-300 ease-in-out hover:bg-white hover:text-black next-btn">
-            <i class="fa-sharp fa-solid fa-arrow-right fa-2x rounded-full"></i>
-            </div>
-        </div>
-       </section> -->
-       
       <!-- javascript -->
       <script src="./app.js"></script>
 </body>
