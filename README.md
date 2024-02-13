@@ -1,4 +1,7 @@
-
+REQUIREMENTS:
+-First, guide users to the 'connect.php' file where they should replace placeholders in the mysqli_connect function with their local host, database username, password, and database name. 
+-Secondly,import database_file.sql to your phpMyAdmin you will find all tables created tables are created. 
+Lastly, emphasize the importance of installing Tailwind CSS for a consistent and responsive user interface. These steps will enable users to effortlessly configure the app and utilize its features across multiple rental agencies.
 
 ![image1](https://github.com/mr1assou/rental_cars/assets/113117942/6ae525ac-8bd3-45ba-95bf-2134b50f7dde)
 
